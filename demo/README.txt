@@ -1,8 +1,3 @@
 Syllabus Reader
-This is my biggest project ive done. I recently started so it is by no means finished or operational. 
-Currently, I am able to take a Syllabus pdf and convert it into text using pdfBox. I have then also 
-imported Standoford NLP and set up a pipeline to use natural language processing on the syllabus. I have also created a class(openAiRequest)
-that can be used to access OpenAi through web API. So, this project has the capability of querying openAI, converting pdf
-into text, split the text by word/sentence, identify labels for each word using NER and finding the lemma of each word.  
-It also utilizes inheritance and encapsulation in the "sections" folder which holds the sections of the syllabus that I will 
-store.
+
+This is the largest project I have taken on thus far. Although it is still in its early stages, I have already achieved quite a lot. I have used pdfBox to convert a syllabus pdf into text, and have set up a Standford NLP pipeline to analyse the text using natural language processing. Additionally, I have created a class called openAiRequest, which allows me to access OpenAI through web API. This project can query OpenAI, convert pdfs to text, split the text into words/sentences, identify labels for each word using NER, and find the lemma of each word. Furthermore, I have made use of inheritance and encapsulation in the ‘sections’ folder, which stores the different sections of the syllabus
