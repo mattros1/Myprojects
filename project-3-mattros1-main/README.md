@@ -3,6 +3,6 @@
 ## Description:
 This project is a simple exploration of my knowledge of GUI design and Swing. 
 
-Use
+To use:
  java GWackClientGUI
 
